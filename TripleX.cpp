@@ -1,4 +1,7 @@
-//Preprocessor directive
+/*Michael Sarmento
+Date: 9/28/19
+*/
+
 #include <iostream>
 #include <ctime>
 
